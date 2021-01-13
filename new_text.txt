@@ -1,0 +1,2 @@
+Hello world!
+Here I am trying git bash on my terminal
